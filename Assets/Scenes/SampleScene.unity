@@ -764,6 +764,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of 3c07740... Added Red Box
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
