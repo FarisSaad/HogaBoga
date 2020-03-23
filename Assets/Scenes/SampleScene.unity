@@ -527,6 +527,7 @@ Transform:
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &779407776
 =======
 --- !u!1 &807927749
@@ -668,6 +669,8 @@ MeshFilter:
   m_GameObject: {fileID: 807927749}
 >>>>>>> origin/master
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+=======
+>>>>>>> parent of f18da06... Added something
 --- !u!1 &894856094
 GameObject:
   m_ObjectHideFlags: 0
@@ -968,10 +971,13 @@ Transform:
   - {fileID: 13117715}
   - {fileID: 40068548}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 779407777}
 =======
   - {fileID: 807927750}
 >>>>>>> origin/master
+=======
+>>>>>>> parent of f18da06... Added something
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
